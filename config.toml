@@ -1,0 +1,4 @@
+baseURL = "http://soup.cf/"
+languageCode = "en-us"
+title = "THIS SOUP TASTES DELICIOUS"
+theme = "harbor"
