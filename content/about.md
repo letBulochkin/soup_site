@@ -1,28 +1,43 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
+title = "Об этом воб-сайте"
+description = "About soup.cf"
+date = "2020-01-01"
 aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+author = "Letchik Bulochkin"
 +++
+<center>
+![about](https://xkcd.ru/i/148_v1.png "Об этом воб-сайте")
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Nuff said.
+</center>
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+<hr>
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Мне 23 года, я системный администратор в команде одного российского облачного провайдера. Увлекаюсь администрированием, программированием, фотографией и бла-бла-бла. В этом блоге оставляю заметки о системном администрировании и программировании, касающиеся тех тем, которые были мне непонятны - что-то вроде эдакой тетрадки. Никакой отвественности за контент. Этот сайт сгенерирован с помощью [Hugo](https://gohugo.io/), тема [Harbor](https://themes.gohugo.io/harbor/), и хостится в S3-хранилище.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I am 23 years old system administrator, working as part of russian cloud provider. Live in Moscow. Administration, programming, photos and so on. Not much to talk about. This site is generated with [Hugo](https://gohugo.io/), theme [Harbor](https://themes.gohugo.io/harbor/), and hosted in S3 storage.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Contacts:
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* My e-mail: fir-anton@yandex.ru
+* My GitHub: https://github.com/let_bulochkin
+
+
+<hr>
+
+## TODO
+
+* [ ] Site visitors counter
+* [ ] Demo page
+* [ ] Optimize upload to S3 bucket
+
+## Changelog
+
+* 2020-08-12 Fix site index title, update About page
+* 2020-08 Changelog started
+* 2020-06 Move from Lektor to Hugo
+
 
 
 
