@@ -30,10 +30,11 @@ Contacts:
 
 * [ ] Site visitors counter
 * [ ] Demo page
-* [ ] Optimize upload to S3 bucket
+* [x] Optimize upload to S3 bucket: {{< ref "post/2020-08-s3-upload-automate.md" >}}
 
 ## Changelog
 
+* 2020-08-13 Create upload script to optimize site deployment process: {{< ref "post/2020-08-s3-upload-automate.md" >}}
 * 2020-08-12 Fix site index title, update About page
 * 2020-08 Changelog started
 * 2020-06 Move from Lektor to Hugo
