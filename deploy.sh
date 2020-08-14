@@ -6,8 +6,9 @@ SITE_PATH="public/"
 #echo $ENDPOINT
 #echo $BUCKET_URL
 hugo
-aws s3 rm $BUCKET_URL  --recursive --endpoint-url=$ENDPOINT
-aws s3 cp $SITE_PATH $BUCKET_URL --recursive --endpoint-url=$ENDPOINT
+#aws s3 rm $BUCKET_URL  --recursive --endpoint-url=$ENDPOINT
+#aws s3 cp $SITE_PATH $BUCKET_URL --recursive --endpoint-url=$ENDPOINT
+aws s3 sync $SITE_PATH $BUCKET_URL --delete --endpoint-url=$ENDPOINT
 aws s3 ls $BUCKET_URL --recursive --endpoint-url=$ENDPOINT | while read line ; 
 do 
 	set $line ;
