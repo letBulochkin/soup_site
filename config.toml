@@ -6,6 +6,7 @@ author = "Letchik Bulochkin"
 paginate = 3
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-41189174-2"
 
 [Author]
   name = "Letchik Bulochkin"
