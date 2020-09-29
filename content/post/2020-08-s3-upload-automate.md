@@ -4,7 +4,7 @@ title = "Автоматизация выгрузки статического с
 date = "2020-08-13"
 description = "Автоматизация выгрузки статического сайта в бакет S3"
 tags = [
-    "bash", "AWS", "S3", "scripting", "this site"
+    "bash", "AWS", "S3", "scripting", "cloud", "this site"
 ] 
 +++
 

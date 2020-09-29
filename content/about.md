@@ -28,7 +28,8 @@ Contacts:
 
 ## TODO
 
-* [ ] Site visitors counter
+* [ ] Photo map
+* [x] Site visitors counter - sort of done.
 * [ ] Demo page
 * [x] Optimize upload to S3 bucket: {{< ref "post/2020-08-s3-upload-automate.md" >}}
 
