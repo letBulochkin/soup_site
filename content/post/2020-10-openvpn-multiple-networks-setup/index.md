@@ -2,7 +2,8 @@
 author = "Letchik Bulochkin"
 title = "Объединение нескольких удаленных подсетей с помощью OpenVPN"
 date = "2020-10-29"
-description = "Объединение нескольких удаленных подсетей с помощью OpenVPN"
+description = "...и сервера в облаке"
+images = ["thumb.jpg"]
 tags = [
     "OpenVPN", "EasyRSA", "Linux", "networking", "VPN"
 ] 
