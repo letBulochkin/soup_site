@@ -1,6 +1,6 @@
 +++
 title = "Об этом воб-сайте"
-description = "About soup.cf"
+description = "About soup.rocks"
 date = "2020-01-01"
 aliases = ["about-us","about-hugo","contact"]
 author = "Letchik Bulochkin"
